@@ -7,6 +7,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { Foto } from './interfaz/foto';
 import { UserTableComponent } from './shared/user-table/user-table.component';
 
+
 @Component({
   selector: 'app-root',
   standalone: true,
